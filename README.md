@@ -14,6 +14,10 @@ Here are some samples of how the birth of the application came to be through moc
 <br/>
 <img src='/public/img/FF-Mobile - Category Menu Open.png'/>
 
+### Color Palette
+<br/>
+<img src='/public/img/Color Palette.png'/>
+
 ## Technologies Used
 
 - React
