@@ -1,11 +1,13 @@
-// import axios from 'axios'
+import Layout from './layout/Layout'
 
 function App() {
 
 	return (
-		<div className='App'>
-			<h1>Forum Friend</h1>
-		</div>
+		<>
+			<Layout>
+				<h1>Main Content</h1>
+			</Layout>
+		</>
 	)
 }
 
